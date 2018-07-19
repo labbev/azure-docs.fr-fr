@@ -1,7 +1,7 @@
 # Vue d'ensemble
 ## [Présentation d'Azure Multi-Factor Authentication](multi-factor-authentication.md)
 ## [Fonctionnement](multi-factor-authentication-how-it-works.md)
-## [Comment obtenir Azure FMA](multi-factor-authentication-versions-plans.md)
+## [Comment obtenir Azure MFA](multi-factor-authentication-versions-plans.md)
 
 # Prise en main
 ## [Choisir l’emplacement de déploiement](multi-factor-authentication-get-started.md)
