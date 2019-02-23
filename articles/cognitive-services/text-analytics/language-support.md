@@ -39,7 +39,7 @@ Les langues prises en charge sont initialement déployées en préversion avant 
 | Néerlandais       | `nl`          | ✔ \*     | ✔          |             |     |
 | Anglais     | `en`          | ✔        | ✔           |  ✔ \*   |      |
 | Finnois     | `fi`          | ✔ \*     | ✔           |             |     |
-| Anglais      | `fr`          | ✔        | ✔           |             |     |
+| Français      | `fr`          | ✔        | ✔           |             |     |
 | Allemand      | `de`          | ✔ \*     | ✔           |            |     |
 | Grec       | `el`          | ✔ \*     |             |            |     |
 | Italien     | `it`          | ✔ \*     | ✔           |             |     |
